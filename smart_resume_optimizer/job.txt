@@ -1,0 +1,36 @@
+Job highlights
+Innovexis is excited to announce an opening for a Python Development Intern to join our team remotely
+This internship offers an excellent opportunity for aspiring software developers to gain hands-on experience by working on real-world applications in the Education Management industry
+Familiarity with frameworks such as Django or Flask (preferred)
+Job match score
+Early Applicant
+Keyskills
+Location
+Work Experience
+Job description
+Innovexis is excited to announce an opening for a Python Development Intern to join our team remotely.
+This internship offers an excellent opportunity for aspiring software developers to gain hands-on experience by working on real-world applications in the Education Management industry.
+You will contribute to building scalable solutions that support our digital platforms and learning systems.
+As a Python Development Intern, you will work closely with experienced developers and product teams to design, develop, and optimize Python-based applications.
+You will be involved in backend development, automation, and data-driven features that directly impact our educational products and services.
+This internship is ideal for candidates who want to strengthen their Python skills while working in a flexible remote environment.
+We offer a competitive stipend ranging from 20,000 to 25,000 per month, along with mentorship, live project exposure, and opportunities for professional growth during the internship.
+Responsibilities.
+Assist in developing and maintaining Python-based applications.
+Write clean, efficient, and reusable Python code.
+Work on backend logic, APIs, and integrations.
+Debug, test, and optimize existing code.
+Collaborate with cross-functional teams to understand requirements.
+Participate in code reviews and team discussions.
+Support automation and scripting tasks.
+Document code, processes, and technical workflows.
+Follow best practices for security, performance, and scalability.
+Requirements.
+Pursuing or recently completed a degree in Computer Science, Software Engineering, or a related field.
+Strong foundation in Python programming.
+Familiarity with frameworks such as Django or Flask (preferred).
+Basic understanding of REST APIs, databases (MySQL/PostgreSQL), and Git.
+Knowledge of data structures and problem-solving concepts.
+Ability to communicate technical ideas clearly.
+Self-motivated and able to work independently in a remote setup.
+Strong time management and organizational skills.

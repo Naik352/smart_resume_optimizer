@@ -1,0 +1,48 @@
+Professional Summary
+Bangalore
+Motivated Python Developer with strong foundation in backend development, Django web applications, and data 
+analysis. Skilled in building database-driven applications, integrating front-end with server-side logic, and 
+developing analytical solutions using machine learning concepts. Passionate about writing efficient, secure, and 
+scalable code and contributing to innovative technology projects.
+Professional Experience
+Web Developer Intern - Dyashin Technosoft Pvt Ltd, Bangalore 
+Nov 2024 - Jan 2025
+Collaborated with team members to coordinate development tasks and meet project deadlines.
+•
+Organized and maintained structured project files and documentation.
+•
+Assisted in tracking project updates and ensuring timely completion of assigned tasks.
+•
+Developed responsive web interfaces using HTML, CSS, and JavaScript.
+•
+Projects
+Student Result Analysis - Python 
+Designed database models and integrated SQLite for efficient data storage and retrieval.
+•
+Developed a full-stack web application using Python and Django to manage and analyze student academic data.
+•
+Built dynamic templates using Django templating engine to display results and analytics.
+•
+SonicScript - Web
+•
+Built SonicScript, a full-stack transcription web application using FastAPI (Python), OpenAI Whisper (Docker), 
+Next.js, Firebase, Redis, and Stripe to deliver secure, scalable, and accurate audio and video transcription with 
+credit-based access control.
+•
+SonicScript is a full-stack transcription web application designed to convert audio and video files into accurate 
+text transcriptions. The goal of the project is to build a scalable, production-ready system that automates 
+transcription while ensuring secure access and efficient processing.
+Skills
+Programming Languages: Python, SQL.
+Web Developement: Html, Css, Javascript(Basic)
+Frameworks: Django, FastAPI.
+Libraries: Pandas, Numpy, Matplotlib, Seaborn.
+Tools: VS Code,Jupyter NoteBook, Git.
+Concepts: Machine Learning Basics, REST API Development, OOP, Data Analysis, Debugging, MVC Architecture.
+Certificates
+Python Course | GUVI
+Education
+MCA(Master of Computer Application)
+AMC Engineering College, Bangalore | 9.4 CGPA
+BCA(Bachelor of Computer Application)
+Sacred Heart College , Madanthyar | 7.9 CGP
